@@ -1,0 +1,85 @@
+body 
+{
+    background-color: rgb white; 
+}
+.column {
+    float: left;
+    width: 40%;
+    padding: 40px;
+    height: 300px; 
+  }
+  
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+.pavadinimai 
+{
+    text-align: center;
+    font-size: 40pt;
+    color: rgb(252, 196, 146);
+    font-family: 'Amatic SC';
+}
+img 
+{
+    width: 700px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+    
+}
+.sarasas
+{
+    text-align: left;
+    font-size: 12pt;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;   
+}
+.recepto-pavadinimas
+{
+    text-align: center;
+    font-size: 20pt;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; 
+}
+p{
+    text-align: center;
+    font-size: 12pt;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; 
+
+
+}
+h2
+{
+    text-align: center;
+    font-size: 14pt;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; 
+}
+#id
+{
+ font-size: 12 pt; 
+ color: black; 
+ font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; 
+ text-align: center; 
+}
+.img 
+{
+    width: 300px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+table {
+    border-collapse: collapse;
+   background-color: rgb(252, 247, 243);
+  
+  }
+  
+  table, th, td {
+    border: 1px solid black;
+  }
+  .stulpeliai {
+    height: 50px;
+  }
+  .eilutes {
+    height: 60px;
+  }
