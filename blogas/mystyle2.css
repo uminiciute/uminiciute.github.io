@@ -1,0 +1,85 @@
+body 
+{
+    background-color: black; 
+}
+.visas{
+    margin: auto; /* lygiuoja centre */
+    background-color:black;
+    width: 750px;
+    height: 330px;
+}
+.pagr
+{
+    margin: 5px;
+    display: block;
+    float: left;
+    padding: 10px;
+    background-color: rgb(3, 71, 17);
+    width: 220px;
+    height: 300px;
+}
+img 
+{
+ 
+ width: 200px;
+ height:280px;
+ margin-left: auto;
+ margin-right: auto; 
+}
+.article_foto
+{
+    display:block;
+    float: left;
+    width: 200px;
+    height: 200px; 
+}
+.article_antr
+{
+    display:block;
+    float: left;
+    text-align: center;
+    text-size-adjust: 30px;
+    background-color: black;
+    width: 200px;
+    height: 30px;
+    padding-bottom: 5mm;
+}
+.article_tekstas
+{
+    display:block;
+    float: left;
+    background-color: rgb(255, 255, 255);
+    width: 200px;
+    height: 50px;
+    padding-bottom: 2mm;
+}
+.pagr
+{
+ text-align: center;
+ padding-bottom: 5mm;
+
+}
+.img 
+{
+    width: 600px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+    
+}
+
+.aprasymai 
+{
+    text-align: center;
+    padding-left: 35mm;
+    padding-right: 35mm;
+}
+
+.galas 
+{
+    width:360px; 
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+    
+}
