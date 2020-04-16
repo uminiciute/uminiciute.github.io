@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(247, 246, 224); 
+}
+img {
+    width: 500px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+    
+}
+h2 {
+   text-align: center; 
+   color: rgb(8, 16, 90); 
+}
+.sarasas
+{
+    color: rgb(56, 13, 13); 
+    font-size: 12pt; 
+    text-align: center;
+
+ 
+ 
+}
+ol {list-style-position: inside;}
+
+
+.antraste
+{
+    color: rgb(8, 16, 90); 
+    text-align: center;
+ 
+}
+
+#id
+{
+ font-size: 15 pt; 
+ color: black; 
+ background-color: bisque;
+ text-align: center; 
+}
+#linja
+ {
+    background-color: bisque;
+}
+
+
